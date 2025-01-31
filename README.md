@@ -1,6 +1,6 @@
-# badges
+# Badges
 
-A collection of badges
+A collection of badges built with [Shields.io](https://shields.io/)
 
 ## Go
 
