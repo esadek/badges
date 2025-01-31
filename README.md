@@ -10,7 +10,7 @@ A collection of badges
 https://shields.io/badge/reference-007D9C?labelColor=gray&logo=go&logoColor=white&logoSize=auto&logoWidth=20
 ```
 
-# North Star Data
+## North Star Data
 
 ![Built by North Star Data](https://img.shields.io/badge/built_by-North_Star_Data-4F46E5)
 
@@ -18,7 +18,7 @@ https://shields.io/badge/reference-007D9C?labelColor=gray&logo=go&logoColor=whit
 https://img.shields.io/badge/built_by-North_Star_Data-4F46E5
 ```
 
-# Streamlit
+## Streamlit
 
 ![Streamlit App](https://img.shields.io/badge/open_in-Streamlit-FF4B4B)
 
