@@ -20,7 +20,7 @@ https://img.shields.io/badge/built_by-North_Star_Data-4F46E5
 
 ## Streamlit
 
-![Streamlit App](https://img.shields.io/badge/open_in-Streamlit-FF4B4B)
+![Open in Streamlit](https://img.shields.io/badge/open_in-Streamlit-FF4B4B)
 
 ```
 https://img.shields.io/badge/open_in-Streamlit-FF4B4B
