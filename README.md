@@ -2,6 +2,14 @@
 
 A collection of badges built with [Shields.io](https://shields.io/)
 
+## DuckDB
+
+![DuckDB CE](https://shields.io/badge/DuckDB_CE-A899FF?labelColor=0D0D0D&logo=duckdb&logoColor=A899FF&logoSize=auto&logoWidth=20)
+
+```
+https://shields.io/badge/DuckDB_CE-A899FF?labelColor=0D0D0D&logo=duckdb&logoColor=A899FF&logoSize=auto&logoWidth=20
+```
+
 ## Go
 
 ![Go Reference](https://shields.io/badge/reference-007D9C?labelColor=gray&logo=go&logoColor=white&logoSize=auto&logoWidth=20)
