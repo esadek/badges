@@ -2,6 +2,64 @@
 
 A collection of badges built with [Shields.io](https://shields.io/)
 
+## Creative Commons
+
+### CC BY
+
+![CC BY](https://img.shields.io/badge/BY-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black)
+
+```
+https://img.shields.io/badge/BY-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black
+```
+
+### CC BY-SA
+
+![CC BY-SA](https://img.shields.io/badge/BY_SA-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black)
+
+```
+https://img.shields.io/badge/BY_SA-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black
+```
+
+### CC BY-NC
+
+![CC BY-NC](https://img.shields.io/badge/BY_NC-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black)
+
+```
+https://img.shields.io/badge/BY_NC-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black
+```
+
+### CC BY-NC-SA
+
+![CC BY-NC-SA](https://img.shields.io/badge/BY_NC_SA-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black)
+
+```
+https://img.shields.io/badge/BY_NC_SA-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black
+```
+
+### CC BY-ND
+
+![CC BY-ND](https://img.shields.io/badge/BY_ND-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black)
+
+```
+https://img.shields.io/badge/BY_ND-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black
+```
+
+### CC BY-NC-ND
+
+![CC BY-NC-ND](https://img.shields.io/badge/BY_NC_ND-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black)
+
+```
+https://img.shields.io/badge/BY_NC_ND-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black
+```
+
+### CC0
+
+![CC0](https://img.shields.io/badge/Public_Domain-black?logo=creativecommons&logoColor=black&labelColor=white)
+
+```
+https://img.shields.io/badge/Public_Domain-black?logo=creativecommons&logoColor=black&labelColor=white
+```
+
 ## DuckDB
 
 ![DuckDB CE](https://shields.io/badge/DuckDB_CE-A899FF?labelColor=0D0D0D&logo=duckdb&logoColor=A899FF&logoSize=auto&logoWidth=20)
