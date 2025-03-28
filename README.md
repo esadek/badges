@@ -14,42 +14,42 @@ https://img.shields.io/badge/BY-AAB2AB?logo=creativecommons&logoColor=white&labe
 
 ### CC BY-SA
 
-![CC BY-SA](https://img.shields.io/badge/BY_SA-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black)
+![CC BY-SA](https://img.shields.io/badge/BY--SA-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black)
 
 ```
-https://img.shields.io/badge/BY_SA-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black
+https://img.shields.io/badge/BY--SA-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black
 ```
 
 ### CC BY-NC
 
-![CC BY-NC](https://img.shields.io/badge/BY_NC-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black)
+![CC BY-NC](https://img.shields.io/badge/BY--NC-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black)
 
 ```
-https://img.shields.io/badge/BY_NC-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black
+https://img.shields.io/badge/BY--NC-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black
 ```
 
 ### CC BY-NC-SA
 
-![CC BY-NC-SA](https://img.shields.io/badge/BY_NC_SA-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black)
+![CC BY-NC-SA](https://img.shields.io/badge/BY--NC--SA-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black)
 
 ```
-https://img.shields.io/badge/BY_NC_SA-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black
+https://img.shields.io/badge/BY--NC--SA-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black
 ```
 
 ### CC BY-ND
 
-![CC BY-ND](https://img.shields.io/badge/BY_ND-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black)
+![CC BY-ND](https://img.shields.io/badge/BY--ND-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black)
 
 ```
-https://img.shields.io/badge/BY_ND-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black
+https://img.shields.io/badge/BY--ND-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black
 ```
 
 ### CC BY-NC-ND
 
-![CC BY-NC-ND](https://img.shields.io/badge/BY_NC_ND-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black)
+![CC BY-NC-ND](https://img.shields.io/badge/BY--NC--ND-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black)
 
 ```
-https://img.shields.io/badge/BY_NC_ND-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black
+https://img.shields.io/badge/BY--NC--ND-AAB2AB?logo=creativecommons&logoColor=white&labelColor=black
 ```
 
 ### CC0
