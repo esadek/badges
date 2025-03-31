@@ -60,6 +60,14 @@ https://img.shields.io/badge/BY--NC--ND-AAB2AB?logo=creativecommons&logoColor=wh
 https://img.shields.io/badge/Public_Domain-black?logo=creativecommons&logoColor=black&labelColor=white
 ```
 
+## dbt
+
+![dbt Package hub](https://img.shields.io/badge/dbt-Package_hub-FF694B?logo=dbt)
+
+```
+https://img.shields.io/badge/dbt-Package_hub-FF694B?logo=dbt
+```
+
 ## DuckDB
 
 ![DuckDB CE](https://shields.io/badge/DuckDB_CE-A899FF?labelColor=0D0D0D&logo=duckdb&logoColor=A899FF&logoSize=auto&logoWidth=20)
