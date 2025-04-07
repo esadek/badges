@@ -70,10 +70,10 @@ https://img.shields.io/badge/dbt-Package_hub-FF694B?logo=dbt
 
 ## DuckDB
 
-![DuckDB CE](https://shields.io/badge/DuckDB_CE-A899FF?labelColor=0D0D0D&logo=duckdb&logoColor=A899FF&logoSize=auto&logoWidth=20)
+![DuckDB CE](https://shields.io/badge/DuckDB_CE-A899FF?labelColor=0D0D0D&logo=duckdb&logoColor=A899FF)
 
 ```
-https://shields.io/badge/DuckDB_CE-A899FF?labelColor=0D0D0D&logo=duckdb&logoColor=A899FF&logoSize=auto&logoWidth=20
+https://shields.io/badge/DuckDB_CE-A899FF?labelColor=0D0D0D&logo=duckdb&logoColor=A899FF
 ```
 
 ## Go
