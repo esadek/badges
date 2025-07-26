@@ -84,6 +84,14 @@ https://shields.io/badge/DuckDB_CE-A899FF?labelColor=0D0D0D&logo=duckdb&logoColo
 https://shields.io/badge/go-reference-007D9C
 ```
 
+## itch.io
+
+![Available on itch.io](https://img.shields.io/badge/available_on-itch.io-FA5C5C)
+
+```
+https://img.shields.io/badge/available_on-itch.io-FA5C5C
+```
+
 ## Marimo
 
 ![Open in marimo](https://img.shields.io/badge/open_in-marimo-1C7361)
